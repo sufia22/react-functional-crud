@@ -1,0 +1,32 @@
+{
+  "developers": [
+    {
+      "name": "Zoynul Abedin",
+      "age": "23",
+      "skill": "GO Stack Devs",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxZjAx9guVVi5EmtciN8lppcBwBjFsUUf2A&usqp=CAU",
+      "id": 2
+    },
+    {
+      "name": "Sufia Akter Shapu",
+      "age": "10",
+      "skill": "BlockChain Developer",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXU7xgrGL41yyxqEQ9jLGqcBM4QKZ1EpVezKtmVwbSI49NWA-BXc8L5X1rTdknJbJ5V0&usqp=CAU",
+      "id": 3
+    },
+    {
+      "name": "Sarmin Sultana",
+      "age": "12",
+      "skill": "Laravel Developer",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpzctMR9cpkyUXGqpSA7E_BLYOM5HsbNkv8Q&usqp=CAU",
+      "id": 4
+    },
+    {
+      "name": "Raza Miya",
+      "age": "22",
+      "skill": "Django Developer",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPICw0MvHj_wo8CMy5anGtsvBzqAJSQtDFw&usqp=CAU",
+      "id": 5
+    }
+  ]
+}
